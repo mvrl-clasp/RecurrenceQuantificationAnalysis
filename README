@@ -1,0 +1,49 @@
+#############################
+# Recurrence Quantification Analysis #
+#############################
+
+The Recurrence Quantification Analysis is a Matlab based tool that allows comparison of perceptual behavior between two groups.
+
+-------------
+Install & Run
+-------------
+
+No installation is required beyond expanding the distribution archive.  
+
+1. Open Matlab
+2. Navigate to the Folder : ~/RecurrenceQuantificatonAnalysis
+3. On the command line type Demo
+
+
+To run rqa or trqa for a group of subjects (for example experts) append fixations of all the subjects within the group to form a column vector
+similar to xcoor, ycoor, and dur.
+
+
+
+-----------
+Information
+-----------
+
+For more information please visit:
+
+https://sites.google.com/site/innovnathan/
+
+Enjoy!
+
+============================================================
+(C) Copyright 2007, Preethi Vaidyanathan, Jeff B. Pelz, Cecilia O. Alm, and Anne R. Haake
+
+http://mvrl.cis.rit.edu/
+https://www.cis.rit.edu/
+http://www.rit.edu/
+
+Permission is granted for anyone to copy, use, or modify these programs and
+accompanying documents for purposes of research or education, provided this
+copyright notice is retained, and note is made of any changes that have been
+made.
+
+These programs and documents are distributed without any warranty, express or
+implied.  As the programs were written for research purposes only, they have
+not been tested to the degree that would be advisable in any important
+application.  All use of these programs is entirely at the user's own risk.
+============================================================
